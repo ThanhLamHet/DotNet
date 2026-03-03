@@ -1,0 +1,17 @@
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab6_QLSinhVien\bin\Debug\net10.0-windows\Lab6_QLSinhVien.exe
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab6_QLSinhVien\bin\Debug\net10.0-windows\Lab6_QLSinhVien.deps.json
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab6_QLSinhVien\bin\Debug\net10.0-windows\Lab6_QLSinhVien.runtimeconfig.json
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab6_QLSinhVien\bin\Debug\net10.0-windows\Lab6_QLSinhVien.dll
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab6_QLSinhVien\bin\Debug\net10.0-windows\Lab6_QLSinhVien.pdb
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab6_QLSinhVien\obj\Debug\net10.0-windows\Lab6_QLSinhVien.Form1.resources
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab6_QLSinhVien\obj\Debug\net10.0-windows\Lab6_QLSinhVien.Properties.Resources.resources
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab6_QLSinhVien\obj\Debug\net10.0-windows\Lab6_QLSinhVien.csproj.GenerateResource.cache
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab6_QLSinhVien\obj\Debug\net10.0-windows\Lab6_QLSinhVien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab6_QLSinhVien\obj\Debug\net10.0-windows\Lab6_QLSinhVien.AssemblyInfoInputs.cache
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab6_QLSinhVien\obj\Debug\net10.0-windows\Lab6_QLSinhVien.AssemblyInfo.cs
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab6_QLSinhVien\obj\Debug\net10.0-windows\Lab6_QLSinhVien.csproj.CoreCompileInputs.cache
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab6_QLSinhVien\obj\Debug\net10.0-windows\Lab6_QLSinhVien.dll
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab6_QLSinhVien\obj\Debug\net10.0-windows\refint\Lab6_QLSinhVien.dll
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab6_QLSinhVien\obj\Debug\net10.0-windows\Lab6_QLSinhVien.pdb
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab6_QLSinhVien\obj\Debug\net10.0-windows\Lab6_QLSinhVien.genruntimeconfig.cache
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab6_QLSinhVien\obj\Debug\net10.0-windows\ref\Lab6_QLSinhVien.dll
