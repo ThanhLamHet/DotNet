@@ -1,0 +1,17 @@
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab4_BT5_QuanLySinhVien\bin\Debug\net10.0-windows\Lab4_BT5_QuanLySinhVien.exe
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab4_BT5_QuanLySinhVien\bin\Debug\net10.0-windows\Lab4_BT5_QuanLySinhVien.deps.json
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab4_BT5_QuanLySinhVien\bin\Debug\net10.0-windows\Lab4_BT5_QuanLySinhVien.runtimeconfig.json
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab4_BT5_QuanLySinhVien\bin\Debug\net10.0-windows\Lab4_BT5_QuanLySinhVien.dll
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab4_BT5_QuanLySinhVien\bin\Debug\net10.0-windows\Lab4_BT5_QuanLySinhVien.pdb
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab4_BT5_QuanLySinhVien\obj\Debug\net10.0-windows\Lab4_BT5_QuanLySinhVien.Form1.resources
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab4_BT5_QuanLySinhVien\obj\Debug\net10.0-windows\Lab4_BT5_QuanLySinhVien.Properties.Resources.resources
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab4_BT5_QuanLySinhVien\obj\Debug\net10.0-windows\Lab4_BT5_QuanLySinhVien.csproj.GenerateResource.cache
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab4_BT5_QuanLySinhVien\obj\Debug\net10.0-windows\Lab4_BT5_QuanLySinhVien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab4_BT5_QuanLySinhVien\obj\Debug\net10.0-windows\Lab4_BT5_QuanLySinhVien.AssemblyInfoInputs.cache
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab4_BT5_QuanLySinhVien\obj\Debug\net10.0-windows\Lab4_BT5_QuanLySinhVien.AssemblyInfo.cs
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab4_BT5_QuanLySinhVien\obj\Debug\net10.0-windows\Lab4_BT5_QuanLySinhVien.csproj.CoreCompileInputs.cache
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab4_BT5_QuanLySinhVien\obj\Debug\net10.0-windows\Lab4_BT5_QuanLySinhVien.dll
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab4_BT5_QuanLySinhVien\obj\Debug\net10.0-windows\refint\Lab4_BT5_QuanLySinhVien.dll
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab4_BT5_QuanLySinhVien\obj\Debug\net10.0-windows\Lab4_BT5_QuanLySinhVien.pdb
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab4_BT5_QuanLySinhVien\obj\Debug\net10.0-windows\Lab4_BT5_QuanLySinhVien.genruntimeconfig.cache
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab4_BT5_QuanLySinhVien\obj\Debug\net10.0-windows\ref\Lab4_BT5_QuanLySinhVien.dll
