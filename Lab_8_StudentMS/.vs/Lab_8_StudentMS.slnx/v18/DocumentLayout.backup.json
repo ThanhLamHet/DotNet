@@ -1,0 +1,238 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Hoctap\\DotNett\\Lab_8_StudentMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D13B7BD-09DE-AEF1-2229-77CF7E31F0EF}|Lab_8_StudentMS.csproj|c:\\users\\thanh\\onedrive\\ta\u0300i li\u00EA\u0323u\\hoctap\\dotnett\\lab_8_studentms\\khoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D13B7BD-09DE-AEF1-2229-77CF7E31F0EF}|Lab_8_StudentMS.csproj|solutionrelative:khoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D13B7BD-09DE-AEF1-2229-77CF7E31F0EF}|Lab_8_StudentMS.csproj|C:\\Users\\thanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Hoctap\\DotNett\\Lab_8_StudentMS\\khoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D13B7BD-09DE-AEF1-2229-77CF7E31F0EF}|Lab_8_StudentMS.csproj|solutionrelative:khoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D13B7BD-09DE-AEF1-2229-77CF7E31F0EF}|Lab_8_StudentMS.csproj|c:\\users\\thanh\\onedrive\\ta\u0300i li\u00EA\u0323u\\hoctap\\dotnett\\lab_8_studentms\\frmsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D13B7BD-09DE-AEF1-2229-77CF7E31F0EF}|Lab_8_StudentMS.csproj|solutionrelative:frmsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D13B7BD-09DE-AEF1-2229-77CF7E31F0EF}|Lab_8_StudentMS.csproj|c:\\users\\thanh\\onedrive\\ta\u0300i li\u00EA\u0323u\\hoctap\\dotnett\\lab_8_studentms\\frmsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D13B7BD-09DE-AEF1-2229-77CF7E31F0EF}|Lab_8_StudentMS.csproj|solutionrelative:frmsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D13B7BD-09DE-AEF1-2229-77CF7E31F0EF}|Lab_8_StudentMS.csproj|c:\\users\\thanh\\onedrive\\ta\u0300i li\u00EA\u0323u\\hoctap\\dotnett\\lab_8_studentms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D13B7BD-09DE-AEF1-2229-77CF7E31F0EF}|Lab_8_StudentMS.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D13B7BD-09DE-AEF1-2229-77CF7E31F0EF}|Lab_8_StudentMS.csproj|c:\\users\\thanh\\onedrive\\ta\u0300i li\u00EA\u0323u\\hoctap\\dotnett\\lab_8_studentms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D13B7BD-09DE-AEF1-2229-77CF7E31F0EF}|Lab_8_StudentMS.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D13B7BD-09DE-AEF1-2229-77CF7E31F0EF}|Lab_8_StudentMS.csproj|c:\\users\\thanh\\onedrive\\ta\u0300i li\u00EA\u0323u\\hoctap\\dotnett\\lab_8_studentms\\frmketqua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D13B7BD-09DE-AEF1-2229-77CF7E31F0EF}|Lab_8_StudentMS.csproj|solutionrelative:frmketqua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D13B7BD-09DE-AEF1-2229-77CF7E31F0EF}|Lab_8_StudentMS.csproj|c:\\users\\thanh\\onedrive\\ta\u0300i li\u00EA\u0323u\\hoctap\\dotnett\\lab_8_studentms\\frmketqua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D13B7BD-09DE-AEF1-2229-77CF7E31F0EF}|Lab_8_StudentMS.csproj|solutionrelative:frmketqua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D13B7BD-09DE-AEF1-2229-77CF7E31F0EF}|Lab_8_StudentMS.csproj|c:\\users\\thanh\\onedrive\\ta\u0300i li\u00EA\u0323u\\hoctap\\dotnett\\lab_8_studentms\\lab_8_studentms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9D13B7BD-09DE-AEF1-2229-77CF7E31F0EF}|Lab_8_StudentMS.csproj|solutionrelative:lab_8_studentms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434CFEF7-5455-4179-B796-6494ADF7BB87}|Lab_8_StudentMS.csproj|C:\\Users\\thanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Hoctap\\DotNett\\Lab_8_StudentMS\\frmsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{434CFEF7-5455-4179-B796-6494ADF7BB87}|Lab_8_StudentMS.csproj|solutionrelative:frmsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D13B7BD-09DE-AEF1-2229-77CF7E31F0EF}|Lab_8_StudentMS.csproj|c:\\users\\thanh\\onedrive\\ta\u0300i li\u00EA\u0323u\\hoctap\\dotnett\\lab_8_studentms\\formmonhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D13B7BD-09DE-AEF1-2229-77CF7E31F0EF}|Lab_8_StudentMS.csproj|solutionrelative:formmonhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D13B7BD-09DE-AEF1-2229-77CF7E31F0EF}|Lab_8_StudentMS.csproj|c:\\users\\thanh\\onedrive\\ta\u0300i li\u00EA\u0323u\\hoctap\\dotnett\\lab_8_studentms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D13B7BD-09DE-AEF1-2229-77CF7E31F0EF}|Lab_8_StudentMS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D13B7BD-09DE-AEF1-2229-77CF7E31F0EF}|Lab_8_StudentMS.csproj|c:\\users\\thanh\\onedrive\\ta\u0300i li\u00EA\u0323u\\hoctap\\dotnett\\lab_8_studentms\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D13B7BD-09DE-AEF1-2229-77CF7E31F0EF}|Lab_8_StudentMS.csproj|solutionrelative:mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Khoa.cs",
+              "DocumentMoniker": "C:\\Users\\thanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Hoctap\\DotNett\\Lab_8_StudentMS\\Khoa.cs",
+              "RelativeDocumentMoniker": "Khoa.cs",
+              "ToolTip": "C:\\Users\\thanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Hoctap\\DotNett\\Lab_8_StudentMS\\Khoa.cs",
+              "RelativeToolTip": "Khoa.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T11:09:41.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Hoctap\\DotNett\\Lab_8_StudentMS\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\thanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Hoctap\\DotNett\\Lab_8_StudentMS\\MainForm.cs [Design]",
+              "RelativeToolTip": "MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T11:07:41.826Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmSinhVien.cs",
+              "DocumentMoniker": "C:\\Users\\thanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Hoctap\\DotNett\\Lab_8_StudentMS\\frmSinhVien.cs",
+              "RelativeDocumentMoniker": "frmSinhVien.cs",
+              "ToolTip": "C:\\Users\\thanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Hoctap\\DotNett\\Lab_8_StudentMS\\frmSinhVien.cs",
+              "RelativeToolTip": "frmSinhVien.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAgwLAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T09:25:53.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmSinhVien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Hoctap\\DotNett\\Lab_8_StudentMS\\frmSinhVien.cs",
+              "RelativeDocumentMoniker": "frmSinhVien.cs",
+              "ToolTip": "C:\\Users\\thanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Hoctap\\DotNett\\Lab_8_StudentMS\\frmSinhVien.cs [Design]",
+              "RelativeToolTip": "frmSinhVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T09:06:08.085Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Khoa.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Hoctap\\DotNett\\Lab_8_StudentMS\\Khoa.cs",
+              "RelativeDocumentMoniker": "Khoa.cs",
+              "ToolTip": "C:\\Users\\thanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Hoctap\\DotNett\\Lab_8_StudentMS\\Khoa.cs [Design]",
+              "RelativeToolTip": "Khoa.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T12:37:25.282Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmKetQua.cs",
+              "DocumentMoniker": "C:\\Users\\thanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Hoctap\\DotNett\\Lab_8_StudentMS\\FrmKetQua.cs",
+              "RelativeDocumentMoniker": "FrmKetQua.cs",
+              "ToolTip": "C:\\Users\\thanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Hoctap\\DotNett\\Lab_8_StudentMS\\FrmKetQua.cs",
+              "RelativeToolTip": "FrmKetQua.cs",
+              "ViewState": "AgIAANwAAAAAAAAAAAA9wP8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T07:02:58.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmKetQua.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Hoctap\\DotNett\\Lab_8_StudentMS\\FrmKetQua.cs",
+              "RelativeDocumentMoniker": "FrmKetQua.cs",
+              "ToolTip": "C:\\Users\\thanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Hoctap\\DotNett\\Lab_8_StudentMS\\FrmKetQua.cs [Design]",
+              "RelativeToolTip": "FrmKetQua.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T07:20:38.483Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\thanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Hoctap\\DotNett\\Lab_8_StudentMS\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\thanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Hoctap\\DotNett\\Lab_8_StudentMS\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwEYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T07:12:18.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Lab_8_StudentMS",
+              "DocumentMoniker": "C:\\Users\\thanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Hoctap\\DotNett\\Lab_8_StudentMS\\Lab_8_StudentMS.csproj",
+              "RelativeDocumentMoniker": "Lab_8_StudentMS.csproj",
+              "ToolTip": "C:\\Users\\thanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Hoctap\\DotNett\\Lab_8_StudentMS\\Lab_8_StudentMS.csproj",
+              "RelativeToolTip": "Lab_8_StudentMS.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-05T06:22:36.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmSinhVien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Hoctap\\DotNett\\Lab_8_StudentMS\\frmSinhVien.cs",
+              "RelativeDocumentMoniker": "frmSinhVien.cs",
+              "ToolTip": "C:\\Users\\thanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Hoctap\\DotNett\\Lab_8_StudentMS\\frmSinhVien.cs [Design]",
+              "RelativeToolTip": "frmSinhVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T11:49:28.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormMonHoc.cs",
+              "DocumentMoniker": "C:\\Users\\thanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Hoctap\\DotNett\\Lab_8_StudentMS\\FormMonHoc.cs",
+              "RelativeDocumentMoniker": "FormMonHoc.cs",
+              "ToolTip": "C:\\Users\\thanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Hoctap\\DotNett\\Lab_8_StudentMS\\FormMonHoc.cs",
+              "RelativeToolTip": "FormMonHoc.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAqwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T12:58:43.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Hoctap\\DotNett\\Lab_8_StudentMS\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\thanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Hoctap\\DotNett\\Lab_8_StudentMS\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T13:10:29.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\thanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Hoctap\\DotNett\\Lab_8_StudentMS\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\thanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Hoctap\\DotNett\\Lab_8_StudentMS\\MainForm.Designer.cs",
+              "RelativeToolTip": "MainForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T11:19:11.837Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

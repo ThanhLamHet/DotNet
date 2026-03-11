@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Hoctap\\DotNett\\Lab4_BT5_QuanLySinhVien\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24DDAA5B-06F9-5B1A-558D-C8B1F6C31DB8}|Lab4_BT5_QuanLySinhVien.csproj|c:\\users\\thanh\\onedrive\\ta\u0300i li\u00EA\u0323u\\hoctap\\dotnett\\lab4_bt5_quanlysinhvien\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24DDAA5B-06F9-5B1A-558D-C8B1F6C31DB8}|Lab4_BT5_QuanLySinhVien.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24DDAA5B-06F9-5B1A-558D-C8B1F6C31DB8}|Lab4_BT5_QuanLySinhVien.csproj|c:\\users\\thanh\\onedrive\\ta\u0300i li\u00EA\u0323u\\hoctap\\dotnett\\lab4_bt5_quanlysinhvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24DDAA5B-06F9-5B1A-558D-C8B1F6C31DB8}|Lab4_BT5_QuanLySinhVien.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24DDAA5B-06F9-5B1A-558D-C8B1F6C31DB8}|Lab4_BT5_QuanLySinhVien.csproj|C:\\Users\\thanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Hoctap\\DotNett\\Lab4_BT5_QuanLySinhVien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24DDAA5B-06F9-5B1A-558D-C8B1F6C31DB8}|Lab4_BT5_QuanLySinhVien.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B6B9BE-F345-4919-BB2C-62E3BFD02E0A}|Lab4_BT5_QuanLySinhVien.csproj|C:\\Users\\thanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Hoctap\\DotNett\\Lab4_BT5_QuanLySinhVien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4B6B9BE-F345-4919-BB2C-62E3BFD02E0A}|Lab4_BT5_QuanLySinhVien.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Hoctap\\DotNett\\Lab4_BT5_QuanLySinhVien\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\thanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Hoctap\\DotNett\\Lab4_BT5_QuanLySinhVien\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T11:40:47.883Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\thanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Hoctap\\DotNett\\Lab4_BT5_QuanLySinhVien\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\thanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Hoctap\\DotNett\\Lab4_BT5_QuanLySinhVien\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T13:01:21.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\thanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Hoctap\\DotNett\\Lab4_BT5_QuanLySinhVien\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\thanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Hoctap\\DotNett\\Lab4_BT5_QuanLySinhVien\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAhwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T12:44:54.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Hoctap\\DotNett\\Lab4_BT5_QuanLySinhVien\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\thanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Hoctap\\DotNett\\Lab4_BT5_QuanLySinhVien\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T12:19:51.3Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab4_TreeView\bin\Debug\net10.0-windows\Lab4_TreeView.exe
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab4_TreeView\bin\Debug\net10.0-windows\Lab4_TreeView.deps.json
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab4_TreeView\bin\Debug\net10.0-windows\Lab4_TreeView.runtimeconfig.json
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab4_TreeView\bin\Debug\net10.0-windows\Lab4_TreeView.dll
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab4_TreeView\bin\Debug\net10.0-windows\Lab4_TreeView.pdb
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab4_TreeView\obj\Debug\net10.0-windows\Lab4_TreeView.Form1.resources
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab4_TreeView\obj\Debug\net10.0-windows\Lab4_TreeView.Properties.Resources.resources
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab4_TreeView\obj\Debug\net10.0-windows\Lab4_TreeView.csproj.GenerateResource.cache
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab4_TreeView\obj\Debug\net10.0-windows\Lab4_TreeView.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab4_TreeView\obj\Debug\net10.0-windows\Lab4_TreeView.AssemblyInfoInputs.cache
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab4_TreeView\obj\Debug\net10.0-windows\Lab4_TreeView.AssemblyInfo.cs
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab4_TreeView\obj\Debug\net10.0-windows\Lab4_TreeView.csproj.CoreCompileInputs.cache
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab4_TreeView\obj\Debug\net10.0-windows\Lab4_TreeView.dll
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab4_TreeView\obj\Debug\net10.0-windows\refint\Lab4_TreeView.dll
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab4_TreeView\obj\Debug\net10.0-windows\Lab4_TreeView.pdb
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab4_TreeView\obj\Debug\net10.0-windows\Lab4_TreeView.genruntimeconfig.cache
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab4_TreeView\obj\Debug\net10.0-windows\ref\Lab4_TreeView.dll
