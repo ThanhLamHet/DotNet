@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab4_Thaotacso\bin\Debug\net10.0-windows\Lab4_Thaotacso.exe
 C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab4_Thaotacso\bin\Debug\net10.0-windows\Lab4_Thaotacso.deps.json
 C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab4_Thaotacso\bin\Debug\net10.0-windows\Lab4_Thaotacso.runtimeconfig.json
@@ -15,3 +16,22 @@ C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab4_Thaotacso\obj\Debug\ne
 C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab4_Thaotacso\obj\Debug\net10.0-windows\Lab4_Thaotacso.genruntimeconfig.cache
 C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab4_Thaotacso\obj\Debug\net10.0-windows\ref\Lab4_Thaotacso.dll
 C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab4_Thaotacso\obj\Debug\net10.0-windows\Lab4_Thaotacso.Properties.Resources.resources
+=======
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab4_Thaotacso\bin\Debug\net10.0-windows\Lab4_Thaotacso.exe
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab4_Thaotacso\bin\Debug\net10.0-windows\Lab4_Thaotacso.deps.json
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab4_Thaotacso\bin\Debug\net10.0-windows\Lab4_Thaotacso.runtimeconfig.json
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab4_Thaotacso\bin\Debug\net10.0-windows\Lab4_Thaotacso.dll
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab4_Thaotacso\bin\Debug\net10.0-windows\Lab4_Thaotacso.pdb
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab4_Thaotacso\obj\Debug\net10.0-windows\Lab4_Thaotacso.Form1.resources
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab4_Thaotacso\obj\Debug\net10.0-windows\Lab4_Thaotacso.csproj.GenerateResource.cache
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab4_Thaotacso\obj\Debug\net10.0-windows\Lab4_Thaotacso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab4_Thaotacso\obj\Debug\net10.0-windows\Lab4_Thaotacso.AssemblyInfoInputs.cache
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab4_Thaotacso\obj\Debug\net10.0-windows\Lab4_Thaotacso.AssemblyInfo.cs
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab4_Thaotacso\obj\Debug\net10.0-windows\Lab4_Thaotacso.csproj.CoreCompileInputs.cache
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab4_Thaotacso\obj\Debug\net10.0-windows\Lab4_Thaotacso.dll
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab4_Thaotacso\obj\Debug\net10.0-windows\refint\Lab4_Thaotacso.dll
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab4_Thaotacso\obj\Debug\net10.0-windows\Lab4_Thaotacso.pdb
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab4_Thaotacso\obj\Debug\net10.0-windows\Lab4_Thaotacso.genruntimeconfig.cache
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab4_Thaotacso\obj\Debug\net10.0-windows\ref\Lab4_Thaotacso.dll
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab4_Thaotacso\obj\Debug\net10.0-windows\Lab4_Thaotacso.Properties.Resources.resources
+>>>>>>> 2a18ad26c5e5ca62758f0f1000e1b8543bcff917

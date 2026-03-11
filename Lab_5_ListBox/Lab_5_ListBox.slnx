@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 <Solution>
   <Project Path="Lab_5_ListBox.csproj" />
 </Solution>
+=======
+<Solution>
+  <Project Path="Lab_5_ListBox.csproj" />
+</Solution>
+>>>>>>> 2a18ad26c5e5ca62758f0f1000e1b8543bcff917

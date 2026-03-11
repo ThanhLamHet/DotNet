@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v10.0",
@@ -20,4 +21,28 @@
       "sha512": ""
     }
   }
+=======
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Lab4_TreeView/1.0.0": {
+        "runtime": {
+          "Lab4_TreeView.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab4_TreeView/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+>>>>>>> 2a18ad26c5e5ca62758f0f1000e1b8543bcff917
 }

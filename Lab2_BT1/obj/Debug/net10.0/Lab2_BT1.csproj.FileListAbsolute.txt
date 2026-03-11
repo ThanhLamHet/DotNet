@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab2_BT1\bin\Debug\net10.0\Lab2_BT1.exe
 C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab2_BT1\bin\Debug\net10.0\Lab2_BT1.deps.json
 C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab2_BT1\bin\Debug\net10.0\Lab2_BT1.runtimeconfig.json
@@ -12,3 +13,19 @@ C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab2_BT1\obj\Debug\net10.0\
 C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab2_BT1\obj\Debug\net10.0\Lab2_BT1.pdb
 C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab2_BT1\obj\Debug\net10.0\Lab2_BT1.genruntimeconfig.cache
 C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab2_BT1\obj\Debug\net10.0\ref\Lab2_BT1.dll
+=======
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab2_BT1\bin\Debug\net10.0\Lab2_BT1.exe
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab2_BT1\bin\Debug\net10.0\Lab2_BT1.deps.json
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab2_BT1\bin\Debug\net10.0\Lab2_BT1.runtimeconfig.json
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab2_BT1\bin\Debug\net10.0\Lab2_BT1.dll
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab2_BT1\bin\Debug\net10.0\Lab2_BT1.pdb
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab2_BT1\obj\Debug\net10.0\Lab2_BT1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab2_BT1\obj\Debug\net10.0\Lab2_BT1.AssemblyInfoInputs.cache
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab2_BT1\obj\Debug\net10.0\Lab2_BT1.AssemblyInfo.cs
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab2_BT1\obj\Debug\net10.0\Lab2_BT1.csproj.CoreCompileInputs.cache
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab2_BT1\obj\Debug\net10.0\Lab2_BT1.dll
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab2_BT1\obj\Debug\net10.0\refint\Lab2_BT1.dll
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab2_BT1\obj\Debug\net10.0\Lab2_BT1.pdb
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab2_BT1\obj\Debug\net10.0\Lab2_BT1.genruntimeconfig.cache
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab2_BT1\obj\Debug\net10.0\ref\Lab2_BT1.dll
+>>>>>>> 2a18ad26c5e5ca62758f0f1000e1b8543bcff917

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "Edyx40GafGQ=",
@@ -5,4 +6,13 @@
   "projectFilePath": "C:\\Users\\thanh\\OneDrive\\Tài liệu\\Hoctap\\DotNett\\Lab01_BT4\\Lab01_BT4.csproj",
   "expectedPackageFiles": [],
   "logs": []
+=======
+{
+  "version": 2,
+  "dgSpecHash": "Edyx40GafGQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thanh\\OneDrive\\Tài liệu\\Hoctap\\DotNett\\Lab01_BT4\\Lab01_BT4.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> 2a18ad26c5e5ca62758f0f1000e1b8543bcff917
 }

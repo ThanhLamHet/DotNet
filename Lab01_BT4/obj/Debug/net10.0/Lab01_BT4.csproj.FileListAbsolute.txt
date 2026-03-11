@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab01_BT4\bin\Debug\net10.0\Lab01_BT4.exe
 C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab01_BT4\bin\Debug\net10.0\Lab01_BT4.deps.json
 C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab01_BT4\bin\Debug\net10.0\Lab01_BT4.runtimeconfig.json
@@ -12,3 +13,19 @@ C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab01_BT4\obj\Debug\net10.0
 C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab01_BT4\obj\Debug\net10.0\Lab01_BT4.pdb
 C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab01_BT4\obj\Debug\net10.0\Lab01_BT4.genruntimeconfig.cache
 C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab01_BT4\obj\Debug\net10.0\ref\Lab01_BT4.dll
+=======
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab01_BT4\bin\Debug\net10.0\Lab01_BT4.exe
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab01_BT4\bin\Debug\net10.0\Lab01_BT4.deps.json
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab01_BT4\bin\Debug\net10.0\Lab01_BT4.runtimeconfig.json
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab01_BT4\bin\Debug\net10.0\Lab01_BT4.dll
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab01_BT4\bin\Debug\net10.0\Lab01_BT4.pdb
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab01_BT4\obj\Debug\net10.0\Lab01_BT4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab01_BT4\obj\Debug\net10.0\Lab01_BT4.AssemblyInfoInputs.cache
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab01_BT4\obj\Debug\net10.0\Lab01_BT4.AssemblyInfo.cs
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab01_BT4\obj\Debug\net10.0\Lab01_BT4.csproj.CoreCompileInputs.cache
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab01_BT4\obj\Debug\net10.0\Lab01_BT4.dll
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab01_BT4\obj\Debug\net10.0\refint\Lab01_BT4.dll
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab01_BT4\obj\Debug\net10.0\Lab01_BT4.pdb
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab01_BT4\obj\Debug\net10.0\Lab01_BT4.genruntimeconfig.cache
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab01_BT4\obj\Debug\net10.0\ref\Lab01_BT4.dll
+>>>>>>> 2a18ad26c5e5ca62758f0f1000e1b8543bcff917

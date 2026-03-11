@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "37/Rf9b+gnc=",
@@ -5,4 +6,13 @@
   "projectFilePath": "C:\\Users\\thanh\\OneDrive\\Tài liệu\\Hoctap\\DotNett\\Lab_5_ListBox\\Lab_5_ListBox.csproj",
   "expectedPackageFiles": [],
   "logs": []
+=======
+{
+  "version": 2,
+  "dgSpecHash": "37/Rf9b+gnc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thanh\\OneDrive\\Tài liệu\\Hoctap\\DotNett\\Lab_5_ListBox\\Lab_5_ListBox.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> 2a18ad26c5e5ca62758f0f1000e1b8543bcff917
 }

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab_5_ListBox\bin\Debug\net10.0-windows\Lab_5_ListBox.exe
 C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab_5_ListBox\bin\Debug\net10.0-windows\Lab_5_ListBox.deps.json
 C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab_5_ListBox\bin\Debug\net10.0-windows\Lab_5_ListBox.runtimeconfig.json
@@ -14,3 +15,21 @@ C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab_5_ListBox\obj\Debug\net
 C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab_5_ListBox\obj\Debug\net10.0-windows\Lab_5_ListBox.pdb
 C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab_5_ListBox\obj\Debug\net10.0-windows\Lab_5_ListBox.genruntimeconfig.cache
 C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab_5_ListBox\obj\Debug\net10.0-windows\ref\Lab_5_ListBox.dll
+=======
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab_5_ListBox\bin\Debug\net10.0-windows\Lab_5_ListBox.exe
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab_5_ListBox\bin\Debug\net10.0-windows\Lab_5_ListBox.deps.json
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab_5_ListBox\bin\Debug\net10.0-windows\Lab_5_ListBox.runtimeconfig.json
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab_5_ListBox\bin\Debug\net10.0-windows\Lab_5_ListBox.dll
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab_5_ListBox\bin\Debug\net10.0-windows\Lab_5_ListBox.pdb
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab_5_ListBox\obj\Debug\net10.0-windows\Lab_5_ListBox.Form1.resources
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab_5_ListBox\obj\Debug\net10.0-windows\Lab_5_ListBox.csproj.GenerateResource.cache
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab_5_ListBox\obj\Debug\net10.0-windows\Lab_5_ListBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab_5_ListBox\obj\Debug\net10.0-windows\Lab_5_ListBox.AssemblyInfoInputs.cache
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab_5_ListBox\obj\Debug\net10.0-windows\Lab_5_ListBox.AssemblyInfo.cs
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab_5_ListBox\obj\Debug\net10.0-windows\Lab_5_ListBox.csproj.CoreCompileInputs.cache
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab_5_ListBox\obj\Debug\net10.0-windows\Lab_5_ListBox.dll
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab_5_ListBox\obj\Debug\net10.0-windows\refint\Lab_5_ListBox.dll
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab_5_ListBox\obj\Debug\net10.0-windows\Lab_5_ListBox.pdb
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab_5_ListBox\obj\Debug\net10.0-windows\Lab_5_ListBox.genruntimeconfig.cache
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Lab_5_ListBox\obj\Debug\net10.0-windows\ref\Lab_5_ListBox.dll
+>>>>>>> 2a18ad26c5e5ca62758f0f1000e1b8543bcff917
