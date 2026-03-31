@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Hoctap\\DotNett\\Lab9_QuanLyThuVien\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40460B37-0FEC-07C7-3548-3AB511CC3D7F}|Lab9_QuanLyThuVien.csproj|c:\\users\\thanh\\onedrive\\ta\u0300i li\u00EA\u0323u\\hoctap\\dotnett\\lab9_quanlythuvien\\frmmuonsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{40460B37-0FEC-07C7-3548-3AB511CC3D7F}|Lab9_QuanLyThuVien.csproj|solutionrelative:frmmuonsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40460B37-0FEC-07C7-3548-3AB511CC3D7F}|Lab9_QuanLyThuVien.csproj|c:\\users\\thanh\\onedrive\\ta\u0300i li\u00EA\u0323u\\hoctap\\dotnett\\lab9_quanlythuvien\\frmdocgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40460B37-0FEC-07C7-3548-3AB511CC3D7F}|Lab9_QuanLyThuVien.csproj|solutionrelative:frmdocgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40460B37-0FEC-07C7-3548-3AB511CC3D7F}|Lab9_QuanLyThuVien.csproj|c:\\users\\thanh\\onedrive\\ta\u0300i li\u00EA\u0323u\\hoctap\\dotnett\\lab9_quanlythuvien\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40460B37-0FEC-07C7-3548-3AB511CC3D7F}|Lab9_QuanLyThuVien.csproj|solutionrelative:frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40460B37-0FEC-07C7-3548-3AB511CC3D7F}|Lab9_QuanLyThuVien.csproj|C:\\Users\\thanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Hoctap\\DotNett\\Lab9_QuanLyThuVien\\frmbaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{40460B37-0FEC-07C7-3548-3AB511CC3D7F}|Lab9_QuanLyThuVien.csproj|solutionrelative:frmbaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40460B37-0FEC-07C7-3548-3AB511CC3D7F}|Lab9_QuanLyThuVien.csproj|c:\\users\\thanh\\onedrive\\ta\u0300i li\u00EA\u0323u\\hoctap\\dotnett\\lab9_quanlythuvien\\frmbaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40460B37-0FEC-07C7-3548-3AB511CC3D7F}|Lab9_QuanLyThuVien.csproj|solutionrelative:frmbaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40460B37-0FEC-07C7-3548-3AB511CC3D7F}|Lab9_QuanLyThuVien.csproj|c:\\users\\thanh\\onedrive\\ta\u0300i li\u00EA\u0323u\\hoctap\\dotnett\\lab9_quanlythuvien\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40460B37-0FEC-07C7-3548-3AB511CC3D7F}|Lab9_QuanLyThuVien.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmMuonSach.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Hoctap\\DotNett\\Lab9_QuanLyThuVien\\frmMuonSach.cs",
+              "RelativeDocumentMoniker": "frmMuonSach.cs",
+              "ToolTip": "C:\\Users\\thanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Hoctap\\DotNett\\Lab9_QuanLyThuVien\\frmMuonSach.cs [Design]",
+              "RelativeToolTip": "frmMuonSach.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T03:07:51.698Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmDocGia.cs",
+              "DocumentMoniker": "C:\\Users\\thanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Hoctap\\DotNett\\Lab9_QuanLyThuVien\\frmDocGia.cs",
+              "RelativeDocumentMoniker": "frmDocGia.cs",
+              "ToolTip": "C:\\Users\\thanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Hoctap\\DotNett\\Lab9_QuanLyThuVien\\frmDocGia.cs",
+              "RelativeToolTip": "frmDocGia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T19:18:29.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmNhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\thanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Hoctap\\DotNett\\Lab9_QuanLyThuVien\\frmNhanVien.cs",
+              "RelativeDocumentMoniker": "frmNhanVien.cs",
+              "ToolTip": "C:\\Users\\thanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Hoctap\\DotNett\\Lab9_QuanLyThuVien\\frmNhanVien.cs",
+              "RelativeToolTip": "frmNhanVien.cs",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAUwOoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T11:02:20.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\thanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Hoctap\\DotNett\\Lab9_QuanLyThuVien\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\thanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Hoctap\\DotNett\\Lab9_QuanLyThuVien\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAEYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T10:29:28.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmBaoCao.cs",
+              "DocumentMoniker": "C:\\Users\\thanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Hoctap\\DotNett\\Lab9_QuanLyThuVien\\frmBaoCao.cs",
+              "RelativeDocumentMoniker": "frmBaoCao.cs",
+              "ToolTip": "C:\\Users\\thanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Hoctap\\DotNett\\Lab9_QuanLyThuVien\\frmBaoCao.cs",
+              "RelativeToolTip": "frmBaoCao.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAADgv2sAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T10:03:46.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmBaoCao.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Hoctap\\DotNett\\Lab9_QuanLyThuVien\\frmBaoCao.cs",
+              "RelativeDocumentMoniker": "frmBaoCao.cs",
+              "ToolTip": "C:\\Users\\thanh\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Hoctap\\DotNett\\Lab9_QuanLyThuVien\\frmBaoCao.cs [Design]",
+              "RelativeToolTip": "frmBaoCao.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T09:53:17.388Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
