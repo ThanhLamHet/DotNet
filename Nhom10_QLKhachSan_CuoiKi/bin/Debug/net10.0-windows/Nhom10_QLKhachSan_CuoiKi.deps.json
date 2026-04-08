@@ -14,7 +14,8 @@
           "Microsoft.EntityFrameworkCore.Tools": "10.0.5",
           "MimeKit": "4.15.1",
           "QRCoder": "1.8.0",
-          "WinForms.DataVisualization": "1.10.0"
+          "WinForms.DataVisualization": "1.10.0",
+          "iTextSharp": "5.5.13.5"
         },
         "runtime": {
           "Nhom10_QLKhachSan_CuoiKi.dll": {}
@@ -109,6 +110,17 @@
           "lib/net6.0/Humanizer.dll": {
             "assemblyVersion": "2.14.0.0",
             "fileVersion": "2.14.1.48190"
+          }
+        }
+      },
+      "iTextSharp/5.5.13.5": {
+        "dependencies": {
+          "BouncyCastle.Cryptography": "2.6.2"
+        },
+        "runtime": {
+          "lib/net461/itextsharp.dll": {
+            "assemblyVersion": "5.5.13.5",
+            "fileVersion": "5.5.13.5"
           }
         }
       },
@@ -1028,6 +1040,13 @@
       "sha512": "sha512-lQKvtaTDOXnoVJ20ibTuSIOf2i0uO0MPbDhd1jm238I+U/2ZnRENj0cktKZhtchBMtCUSRQ5v4xBCUbKNmyVMw==",
       "path": "humanizer.core/2.14.1",
       "hashPath": "humanizer.core.2.14.1.nupkg.sha512"
+    },
+    "iTextSharp/5.5.13.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+HPUqG1zZoMhzj6g6c/9fNViiUXi6/TZ4LiN4fZjg1rGWFFu4ZYKOY+YkhdkIL63DkaN75zR1hSGydBR2LgHzQ==",
+      "path": "itextsharp/5.5.13.5",
+      "hashPath": "itextsharp.5.5.13.5.nupkg.sha512"
     },
     "MailKit/4.15.1": {
       "type": "package",

@@ -328,3 +328,4 @@ C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Nhom10_QLKhachSan_CuoiKi\bi
 C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Nhom10_QLKhachSan_CuoiKi\bin\Debug\net10.0-windows\RBush.dll
 C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Nhom10_QLKhachSan_CuoiKi\bin\Debug\net10.0-windows\SixLabors.Fonts.dll
 C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Nhom10_QLKhachSan_CuoiKi\obj\Debug\net10.0-windows\Nhom10_QLKhachSan_CuoiKi.frmKhuyenMai.resources
+C:\Users\thanh\OneDrive\Tài liệu\Hoctap\DotNett\Nhom10_QLKhachSan_CuoiKi\bin\Debug\net10.0-windows\itextsharp.dll

@@ -158,7 +158,7 @@ namespace Nhom10_QLKhachSan_CuoiKi
 			}
 
 			string trangThaiMoi = cbTrangThai.Text;
-			if (trangThaiMoi == "Tất cả")
+			if (string.IsNullOrEmpty(trangThaiMoi) || trangThaiMoi == "Tất cả")
 			{
 				MessageBox.Show("Vui lòng chọn trạng thái cụ thể để cập nhật!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
 				return;
@@ -171,28 +171,54 @@ namespace Nhom10_QLKhachSan_CuoiKi
 				var donHang = context.Datphongs.Find(maDP);
 				if (donHang != null)
 				{
+					// Kiểm tra nếu đơn hàng đã ở trạng thái kết thúc thì không cho sửa
 					if (donHang.TrangThai == "Đã hủy")
 					{
 						MessageBox.Show("Đơn hàng đã hủy không thể cập nhật!", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
 						return;
 					}
-					else if(donHang.TrangThai == "Đã thanh toán")
+					if (donHang.TrangThai == "Đã thanh toán")
 					{
 						MessageBox.Show("Đơn hàng đã thanh toán không thể cập nhật!", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
 						return;
 					}
 
-
+					// 1. Cập nhật trạng thái cho chính đơn đặt phòng
 					donHang.TrangThai = trangThaiMoi;
+
+					// 2. NẾU TRẠNG THÁI MỚI LÀ "Có khách", THÌ CẬP NHẬT TRẠNG THÁI PHÒNG
+					if (trangThaiMoi == "Có khách")
+					{
+						// Tìm tất cả các chi tiết đặt phòng thuộc mã đơn này để lấy danh sách phòng
+						var chiTietPhongs = context.ChitietDps.Where(ct => ct.MaDp == maDP).ToList();
+
+						foreach (var item in chiTietPhongs)
+						{
+							// Tìm phòng tương ứng và đổi trạng thái
+							var phong = context.Phongs.Find(item.MaPhong);
+							if (phong != null)
+							{
+								phong.TrangThai = "Có khách";
+							}
+						}
+					}
+
+					// Lưu tất cả thay đổi (cả trạng thái đơn và trạng thái các phòng)
 					context.SaveChanges();
 
-					MessageBox.Show($"Cập nhật trạng thái đơn #{maDP} thành '{trangThaiMoi}' thành công!", "Thành công");
+					MessageBox.Show($"Cập nhật đơn #{maDP} và các phòng liên quan sang trạng thái '{trangThaiMoi}' thành công!", "Thành công", MessageBoxButtons.OK, MessageBoxIcon.Information);
 					LoadDanhSachDonHang();
 				}
 			}
 			catch (Exception ex)
 			{
-				MessageBox.Show("Lỗi hệ thống: " + ex.Message);
+				// Hiển thị lỗi chi tiết hơn (InnerException) để bạn biết chính xác tại sao không lưu được vào DB
+				string msg = "Lỗi hệ thống: " + ex.Message;
+				if (ex.InnerException != null)
+				{
+					msg += "\nChi tiết lỗi: " + ex.InnerException.Message;
+				}
+				MessageBox.Show(msg, "Lỗi cập nhật", MessageBoxButtons.OK, MessageBoxIcon.Error);
 			}
 		}
 

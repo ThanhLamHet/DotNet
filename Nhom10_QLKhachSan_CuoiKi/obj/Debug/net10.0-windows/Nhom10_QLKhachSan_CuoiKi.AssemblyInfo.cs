@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Nhom10_QLKhachSan_CuoiKi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a362c16d73ee443daef7586f4e55c377fdabbb4c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+954a3efd95bdea03e8c76c49c574019e120fa168")]
 [assembly: System.Reflection.AssemblyProductAttribute("Nhom10_QLKhachSan_CuoiKi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Nhom10_QLKhachSan_CuoiKi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
